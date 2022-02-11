@@ -1,0 +1,27 @@
+The percentage of high hand is: 50.2%
+The winning percentage of high hand is: 0.53%
+
+The percentage of one pair is: 45.4%
+The winning percentage of one pair is: 23.99%
+
+The percentage of two pair is: 2.4%
+The winning percentage of two pair is: 77.43%
+
+The percentage of three of a kind is: 1.4%
+The winning percentage of three of a kind is: 89.89%
+
+The percentage of straight is: 0.2%
+The winning percentage of straight is: 96.6%
+
+The percentage of flush is: 0.2%
+The winning percentage of flush is: 99.2%
+
+Full house doesn't appear! 
+
+The percentage of four of a kind is: 0.2%
+The winning percentage of four of a kind is: 99.6%
+
+Straight flush doesn't appear! 
+
+Royal flush doesn't appear! 
+
